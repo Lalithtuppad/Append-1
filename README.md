@@ -1,3 +1,2 @@
 # Code1
-Fourth commit
-by Lalithtuppad
+Developed the website using the Html,Css,Bootstrap incorporating the responsive design elements and modern functionalities
